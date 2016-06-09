@@ -1,0 +1,8 @@
+﻿'''
+문) 다음과 같은 웹 주소에서 파일을 직접 읽어서 조건에 맞게 처리하시오.
+    조건1> http://databank.worldbank.org/data/download/GDP.csv
+    조건2> pandas에서 제공되는 read_csv() 이용 파일 읽기
+    조건3> 행 번호 없이 'Code','Ranking','Nation','GDP' 칼럼만 파일 저장 
+    조건4> 파일 데이터를 읽어와서 상위 20위 국가만 추출하여 변수 저장 
+    조건5> 상위 20위 국가의 GDP 대상으로 차트 그리기  
+'''
